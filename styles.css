@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color:gray;
+	
+}
+.photo-heading{
+	text-align: center;
+	
+}
+.manage{
+	
+	background-color:#ccc;
+	width:650px;
+	padding-left:40px;
+     border:1px solid white;
+	border-radius:20px
+}
+.manage img{
+	 border:1px solid white;
+	border-radius:20px
+}
